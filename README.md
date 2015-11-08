@@ -1,6 +1,7 @@
 ttarvis.github.io
 =================
 
-Website for Terence Tarvis by Terence Tarvis
+Github Pages for Terence Tarvis's software.
 
+ttarvis.github.io
 http://tarves.org
