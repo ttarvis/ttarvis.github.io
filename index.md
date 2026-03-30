@@ -1,11 +1,25 @@
-[ttarvis.github.io](https://ttarvis.github.io)
+Terence Tarvis
+============
 
-* [Go Black Bag](https://github.com/ttarvis/gobkb) is the Matasano Black Bag rewritten in Go for security testing and other tasks.
+-------------------
+tgtarvis@gmail.com
+[github.com/ttarvis](https://github.com/ttarvis)
 
-***
-[tarves.org](http://tarves.org)
-***
+--------------
 
-please write to terence at tarves dot org.
+Education
+---------
 
-updated: March 7, 2017
+**BS, Computer Science**
+Stanford University
+
+Projects
+--------
+
+**Open Source and Research Software:**
+
+* [Glasgo](http://github.com/ttarvis/glasgo)
+* [totp cli tool in C++](https://github.com/ttarvis/2FCLI)
+* [dataprint](https://github.com/ttarvis/dataprint)
+
+updated: March 30, 2026
