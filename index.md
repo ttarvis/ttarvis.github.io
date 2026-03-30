@@ -1,4 +1,3 @@
--------------------
 tgtarvis@gmail.com
 [github.com/ttarvis](https://github.com/ttarvis)
 
